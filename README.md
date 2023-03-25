@@ -1,1 +1,1 @@
-# amnesic404.github.io
+# AMNESIC 失憶病毒
