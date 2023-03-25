@@ -1,4 +1,3 @@
-theme: minima
 # AMNESIC 失憶病毒
 <div align="center">
 <img src="amnesic.gif" height="200">
